@@ -1,2 +1,4 @@
-# awesome-Learning
-Some resources include Python, C++, Conda, PyTorch, Machine Learning, Deep Learning,  etc.
+# Awesome-Learning
+
+
+Some resources include Python, C++, Anaconda, PyTorch, Machine Learning, Deep Learning,  etc.
