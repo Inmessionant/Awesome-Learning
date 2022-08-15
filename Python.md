@@ -14,7 +14,7 @@
 
 - [ ] [Numpy QuickStart](https://numpy.org/doc/stable/user/quickstart.html)
 
-- [ ] 
+- [x] [What the fuck Python! ](https://github.com/robertparley/wtfpython-cn)
 
 
 
@@ -32,10 +32,41 @@
 
 
 
-### 可迭代对象 & 迭代器 & 生成器
+### 迭代器 & 生成器
 
 
+
+
+
+------
+
+
+
+### 闭包
+
+
+
+
+
+------
+
+
+
+### 装饰器
+
+
+
+
+
+------
 
 
 
 ### What the f*ck Python!
+
+
+
+
+
+------
+
