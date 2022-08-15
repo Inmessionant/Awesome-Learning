@@ -4,7 +4,7 @@
 
 
 
-#### Books
+## Books
 
 - [ ] Effective Python：编写高质量Python代码的90个有效方法
 
@@ -14,8 +14,28 @@
 
 - [ ] [Numpy QuickStart](https://numpy.org/doc/stable/user/quickstart.html)
 
+- [ ] 
 
 
-#### Videos
+
+## Videos
 
 - [x] Python小技巧：https://space.bilibili.com/8032966/favlist?fid=413538&ftype=collect&ctype=21
+
+
+
+
+
+------
+
+
+
+
+
+### 可迭代对象 & 迭代器 & 生成器
+
+
+
+
+
+### What the f*ck Python!
