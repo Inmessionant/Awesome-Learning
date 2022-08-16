@@ -110,6 +110,27 @@
 
 
 
+```python
+import re
+
+patten = "[a-zA-Z]*(\d+)(\w+)"
+str1 = "qwe1234azAA"
+res = re.search(patten, str1)
+print(res.group(), res.group(0), res.group(1), res.group(2))
+# qwe1234azAA qwe1234azAA 1234 azAA
+```
+
+
+
+**Group用法：**
+
+- 有几个()就有几个group；
+- group() = group(0)表示全部匹配结果， group(1)表示第一个匹配块，以此类推；
+
+
+
+
+
 ------
 
 
