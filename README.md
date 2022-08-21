@@ -29,7 +29,7 @@ Some resources include Python, C++, Anaconda, PyTorch, Machine Learning, Deep Le
 
 
 
-- [x] C/C++细节：https://space.bilibili.com/480804525/channel/series
+- [x] C/C++细节：https://www.bilibili.com/video/BV1nV4y177nk
 
 
 
@@ -53,7 +53,7 @@ Some resources include Python, C++, Anaconda, PyTorch, Machine Learning, Deep Le
 
 
 
-- [x] Python小技巧：https://space.bilibili.com/480804525/channel/series
+- [x] Python小技巧：https://www.bilibili.com/video/BV15r4y1L7v9
 
 
 
@@ -71,7 +71,7 @@ Some resources include Python, C++, Anaconda, PyTorch, Machine Learning, Deep Le
 
 
 
-- [ ] 蒋炎岩 - 2022 南京大学 “操作系统：设计与实现”：https://space.bilibili.com/202224425/channel/series
+- [ ] 蒋炎岩 - 2022 南京大学 “操作系统：设计与实现”：https://www.bilibili.com/video/BV1Cm4y1d7Ur
 
 
 
@@ -83,17 +83,20 @@ Some resources include Python, C++, Anaconda, PyTorch, Machine Learning, Deep Le
 
 
 
-- [ ] 李航 - 统计学习方法第二版
+- [ ] 李航 - 统计学习方法
 - [ ] 百面机器学习
 - [ ] Pattern Recognition and Machine Learning
 - [ ] Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
 
 
 
-- [ ] 林轩田 - 机器学习基石：https://space.bilibili.com/23852932/video
-- [ ] 林轩田 - 机器学习技法：https://space.bilibili.com/23852932/video
-- [ ] 李宏毅 - Machine Learning（2019机器学习, 2021深度学习）
-- [ ] 十分钟机器学习：https://space.bilibili.com/406882224
+- [ ] 林轩田 - 机器学习基石：https://www.bilibili.com/video/BV1Cx411i7op
+- [ ] 林轩田 - 机器学习技法：https://www.bilibili.com/video/BV1ix411i7yp
+- [ ] 李宏毅 - Machine Learning：
+  - [ ] 2019 机器学习：https://www.bilibili.com/video/BV1Ht411g7Ef
+  - [ ] 2021 深度学习：https://www.bilibili.com/video/BV1JA411c7VT
+
+- [ ] 十分钟机器学习：https://www.bilibili.com/video/BV1No4y1o7ac
 
 
 
@@ -112,11 +115,11 @@ Some resources include Python, C++, Anaconda, PyTorch, Machine Learning, Deep Le
 
 
 
-- [x] 李沐 - 动手学习深度学习（PyTorch）v2：https://space.bilibili.com/1567748478
+- [x] 李沐 - 动手学习深度学习（PyTorch）v2：https://www.bilibili.com/video/BV1if4y147hS
 
-- [ ] 纽约大学 - 深度学习课程PyTorch：https://space.bilibili.com/23852932/video
+- [ ] 纽约大学 - 深度学习课程PyTorch：https://www.bilibili.com/video/BV1Lb4y1X77t
 
-- [ ] 邱锡鹏 - 神经网络与深度学习：https://space.bilibili.com/434832966/video
+- [ ] 邱锡鹏 - 神经网络与深度学习：https://www.bilibili.com/video/BV13b4y1177W
 
 
 
