@@ -25,6 +25,7 @@ Some resources include Python, C++, Anaconda, PyTorch, Machine Learning, Deep Le
 
 
 - [x] C++ Primer
+- [ ] Effective C++：改善程序与设计的55个具体做法
 
 
 
@@ -70,7 +71,7 @@ Some resources include Python, C++, Anaconda, PyTorch, Machine Learning, Deep Le
 
 
 
-- [ ] 蒋炎岩 - 南京大学操作系统：https://www.bilibili.com/video/BV1Cm4y1d7Ur?spm_id_from=333.999.0.0&vd_source=76d72bc0e66dc04e5ace0a2a6b2cd8a0
+- [ ] 蒋炎岩 - 2022 南京大学 “操作系统：设计与实现”：https://space.bilibili.com/202224425/channel/series
 
 
 
@@ -89,7 +90,8 @@ Some resources include Python, C++, Anaconda, PyTorch, Machine Learning, Deep Le
 
 
 
-- [ ] 林轩田 - 机器学习基石和技法
+- [ ] 林轩田 - 机器学习基石：https://space.bilibili.com/23852932/video
+- [ ] 林轩田 - 机器学习技法：https://space.bilibili.com/23852932/video
 - [ ] 李宏毅 - Machine Learning（2019机器学习, 2021深度学习）
 - [ ] 十分钟机器学习：https://space.bilibili.com/406882224
 
@@ -110,11 +112,11 @@ Some resources include Python, C++, Anaconda, PyTorch, Machine Learning, Deep Le
 
 
 
-- [x] 李沐 - 动手学习深度学习（PyTorch）v2：https://courses.d2l.ai/zh-v2/
+- [x] 李沐 - 动手学习深度学习（PyTorch）v2：https://space.bilibili.com/1567748478
 
-- [ ] 深度学习 - 纽约大学：https://www.bilibili.com/video/BV1Lb4y1X77t?spm_id_from=333.337.search-card.all.click&vd_source=76d72bc0e66dc04e5ace0a2a6b2cd8a0
+- [ ] 纽约大学 - 深度学习课程PyTorch：https://space.bilibili.com/23852932/video
 
-- [ ] 邱锡鹏 - 神经网络与深度学习：https://space.bilibili.com/434832966
+- [ ] 邱锡鹏 - 神经网络与深度学习：https://space.bilibili.com/434832966/video
 
 
 
