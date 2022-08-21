@@ -7,12 +7,57 @@ Some resources include Python, C++, Anaconda, PyTorch, Machine Learning, Deep Le
 
 
 
-|                  |                            |                           |                                                |                     |                                     |
-| :--------------: | :------------------------: | :-----------------------: | :--------------------------------------------: | :-----------------: | :---------------------------------: |
-|   Mathematics    |          Calculus          |      Linear Algebra       | Probability Theory and Mathematical Statistics | Optimization Theory |         Information Theory          |
-| Computer Science | Data Structure（LeetCode） | Operating System（Linux） |               Computer Networks                |   Database（SQL）   | Programming（Python、C++、PyTorch） |
-|   AI Algorithm   |      Machine Learning      |       Deep Learning       |                      SLAM                      |     Autonomous      |                                     |
-|                  |    Edge-side deployment    |    Sparse quantization    |           Neural network compilation           |                     |                                     |
+|            |                      |                   |                  |               |                                  |
+| :--------: | :------------------: | :---------------: | :--------------: | :-----------: | :------------------------------: |
+|  数学基础  |        微积分        |     线性代数      | 概率论与数理统计 |    凸优化     |              信息论              |
+| 计算机基础 | 数据结构（LeetCode） | 操作系统（Linux） |    计算机网络    | 数据库（SQL） | 编程语言（Python、C++、PyTorch） |
+|   AI算法   |       机器学习       |     深度学习      |       SLAM       |   自动驾驶    |                                  |
+|            |       稀疏量化       |   神经网络编译    |                  |               |                                  |
+
+
+
+------
+
+
+
+## Anaconda
+
+
+
+```
+# conda 创建环境
+conda create -n name python=3.8
+
+# 使用pytorch官网的pip/conda命令装torch和torchvision
+pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu116
+
+
+# MacOS安装
+# MPS acceleration is available on MacOS 12.3+
+pip3 install --pre torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/nightly/cpu
+```
+
+
+
+
+```
+# 清理缓存
+conda clean -a
+
+# 安装requirements里面的版本
+conda install --yes --file requirements.txt
+
+# 测试cuda是否可用
+import torch
+import torchvision
+print(torch.cuda.is_available())
+print(torch.version.cuda)
+
+# 删除conda环境
+conda remove -n name --all
+
+# conda换源记得去掉default，添加pytorch
+```
 
 
 
@@ -92,10 +137,8 @@ Some resources include Python, C++, Anaconda, PyTorch, Machine Learning, Deep Le
 
 - [ ] 林轩田 - 机器学习基石：https://www.bilibili.com/video/BV1Cx411i7op
 - [ ] 林轩田 - 机器学习技法：https://www.bilibili.com/video/BV1ix411i7yp
-- [ ] 李宏毅 - Machine Learning：
-  - [ ] 2019 机器学习：https://www.bilibili.com/video/BV1Ht411g7Ef
-  - [ ] 2021 深度学习：https://www.bilibili.com/video/BV1JA411c7VT
-
+- [ ] 李宏毅 - 2019 机器学习：https://www.bilibili.com/video/BV1Ht411g7Ef
+- [ ] 李宏毅 - 2021 深度学习：https://www.bilibili.com/video/BV1JA411c7VT
 - [ ] 十分钟机器学习：https://www.bilibili.com/video/BV1No4y1o7ac
 
 
