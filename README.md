@@ -1,4 +1,7 @@
+
+
 # Awesome-Learning
+
 
 
 ```
@@ -138,7 +141,6 @@ conda remove -n name --all
 - [ ] 林轩田 - 机器学习基石：https://www.bilibili.com/video/BV1Cx411i7op
 - [ ] 林轩田 - 机器学习技法：https://www.bilibili.com/video/BV1ix411i7yp
 - [ ] 李宏毅 - 2019 机器学习：https://www.bilibili.com/video/BV1Ht411g7Ef
-- [ ] 李宏毅 - 2021 深度学习：https://www.bilibili.com/video/BV1JA411c7VT
 - [ ] 十分钟机器学习：https://www.bilibili.com/video/BV1No4y1o7ac
 
 
@@ -159,6 +161,8 @@ conda remove -n name --all
 
 
 - [x] 李沐 - 动手学习深度学习（PyTorch）v2：https://www.bilibili.com/video/BV1if4y147hS
+
+- [x] 李宏毅 - 2021 深度学习：https://www.bilibili.com/video/BV1JA411c7VT
 
 - [ ] 纽约大学 - 深度学习课程PyTorch：https://www.bilibili.com/video/BV1Lb4y1X77t
 
