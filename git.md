@@ -87,6 +87,8 @@ git cherry-pick commitId  # 把commitId内容拉过来，同时生成了新的co
 #### 撤销操作
 
 ```
+git reset hard commitId  # 回退到commitId的版本
 
+git push origin master  # 推动到远端服务器，如果失败，可以使用git push -f origin master强制推送到远端
 ```
 
