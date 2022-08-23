@@ -102,6 +102,7 @@ conda remove -n name --all
 
 
 - [x] Python小技巧：https://www.bilibili.com/video/BV15r4y1L7v9
+- [x] Effective Python：编写高质量Python代码的90个有效方法：https://www.bilibili.com/video/BV1HB4y1C7zH
 
 
 
