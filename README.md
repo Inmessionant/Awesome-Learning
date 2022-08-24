@@ -77,7 +77,7 @@ conda remove -n name --all
 
 
 
-- [x] C/C++细节：https://www.bilibili.com/video/BV1nV4y177nk
+- [x] C++ Primer Plus：https://www.bilibili.com/video/BV1Yv411t7qe
 
 
 
