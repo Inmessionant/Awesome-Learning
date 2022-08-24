@@ -167,7 +167,7 @@ conda remove -n name --all
 
 - [x] 李宏毅 - 2021 机器学习：https://www.bilibili.com/video/BV1JA411c7VT
 
-- [ ] 纽约大学 - 深度学习课程：https://www.bilibili.com/video/BV1Lb4y1X77t
+- [ ] 纽约大学 - 深度学习课程（PyTorch）：https://www.bilibili.com/video/BV1Lb4y1X77t
 
 - [ ] 邱锡鹏 - 神经网络与深度学习：https://www.bilibili.com/video/BV13b4y1177W
 
