@@ -10,12 +10,12 @@ Some resources include Python, C++, Anaconda, PyTorch, Machine Learning, Deep Le
 
 
 
-|            |                      |                   |            |               |                                  |
-| :--------: | :------------------: | :---------------: | :--------: | :-----------: | :------------------------------: |
-|  数学基础  |        微积分        |     线性代数      |   概率论   |    凸优化     |              信息论              |
-| 计算机基础 | 数据结构（LeetCode） | 操作系统（Linux） | 计算机网络 | 数据库（SQL） | 编程语言（Python、C++、PyTorch） |
-|   AI算法   |       机器学习       |     深度学习      |    SLAM    |   自动驾驶    |                                  |
-|            |       稀疏量化       |   神经网络编译    |            |               |                                  |
+|                |                      |                   |                         |               |                         |
+| :------------: | :------------------: | :---------------: | :---------------------: | :-----------: | :---------------------: |
+|  **数学基础**  |        微积分        |     线性代数      |         概率论          |    凸优化     |         信息论          |
+| **计算机基础** | 数据结构（LeetCode） | 操作系统（Linux） |       计算机网络        | 数据库（SQL） | 编程语言（Python、C++） |
+|   **AI算法**   |       机器学习       |     深度学习      |          SLAM           |   自动驾驶    |                         |
+|    **其他**    |       稀疏量化       |   神经网络编译    | 深度学习框架（PyTorch） |               |                         |
 
 
 
@@ -89,7 +89,9 @@ conda remove -n name --all
 
 
 
-- [ ] Effective Python：编写高质量Python代码的90个有效方法
+- [x] 华为Python语言编程规范 V3.0
+
+- [x] Effective Python：编写高质量Python代码的90个有效方法
 
 - [ ] 利用Python进行数据分析
 
@@ -115,7 +117,7 @@ conda remove -n name --all
 
 
 - [ ] 陈海波 - 现代操作系统：原理与实现
-- [ ] Operating Systems:Three Easy Pieces
+- [ ] 操作系统导论（Operating Systems：Three Easy Pieces）
 
 
 
@@ -132,7 +134,7 @@ conda remove -n name --all
 
 
 
-- [ ] 李航 - 统计学习方法
+- [ ] 李航 - 统计学习方法（第二版）
 - [ ] 百面机器学习
 - [ ] Pattern Recognition and Machine Learning
 - [ ] Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
@@ -141,7 +143,7 @@ conda remove -n name --all
 
 - [ ] 林轩田 - 机器学习基石：https://www.bilibili.com/video/BV1Cx411i7op
 - [ ] 林轩田 - 机器学习技法：https://www.bilibili.com/video/BV1ix411i7yp
-- [ ] 李宏毅 - 2019 机器学习：https://www.bilibili.com/video/BV1Ht411g7Ef
+- [ ] 李宏毅 - 2019 机器学习：https://www.bilibili.com/video/BV1Ht411g7Ef （[李宏毅机器学习笔记](https://datawhalechina.github.io/leeml-notes/#/?id=李宏毅机器学习笔记leeml-notes)）
 - [ ] 十分钟机器学习：https://www.bilibili.com/video/BV1No4y1o7ac
 
 
@@ -163,9 +165,9 @@ conda remove -n name --all
 
 - [x] 李沐 - 动手学习深度学习（PyTorch）v2：https://www.bilibili.com/video/BV1if4y147hS
 
-- [x] 李宏毅 - 2021 深度学习：https://www.bilibili.com/video/BV1JA411c7VT
+- [x] 李宏毅 - 2021 机器学习：https://www.bilibili.com/video/BV1JA411c7VT
 
-- [ ] 纽约大学 - 深度学习课程PyTorch：https://www.bilibili.com/video/BV1Lb4y1X77t
+- [ ] 纽约大学 - 深度学习课程：https://www.bilibili.com/video/BV1Lb4y1X77t
 
 - [ ] 邱锡鹏 - 神经网络与深度学习：https://www.bilibili.com/video/BV13b4y1177W
 
