@@ -10,12 +10,10 @@ Some resources include Python, C++, Anaconda, PyTorch, Machine Learning, Deep Le
 
 
 
-|                |                      |                   |                         |               |                         |
-| :------------: | :------------------: | :---------------: | :---------------------: | :-----------: | :---------------------: |
-|  **数学基础**  |        微积分        |     线性代数      |         概率论          |    凸优化     |         信息论          |
-| **计算机基础** | 数据结构（LeetCode） | 操作系统（Linux） |       计算机网络        | 数据库（SQL） | 编程语言（Python、C++） |
-|   **AI算法**   |       机器学习       |     深度学习      |          SLAM           |   自动驾驶    |                         |
-|    **其他**    |       稀疏量化       |   神经网络编译    | 深度学习框架（PyTorch） |               |                         |
+- **数学基础：**微积分、线性代数、概率论、凸优化、信息论
+- **计算机基础：**数据结构（LeetCode）、操作系统（Linux）、计算机网络、数据库（SQL）、编程语言（Python、C++、C）
+- **AI算法：**机器学习、深度学习、SLAM、自动驾驶
+- **其他：**深度学习框架（PyTorch）、稀疏量化、神经网络编译、
 
 
 
@@ -68,16 +66,14 @@ conda remove -n name --all
 
 
 
-## C++
+## C & C++
 
 
 
+- [x] C和指针
+- [ ] C Primer Plus
 - [x] C++ Primer
 - [ ] Effective C++：改善程序与设计的55个具体做法
-
-
-
-- [x] C++ Primer Plus：https://www.bilibili.com/video/BV1Yv411t7qe
 
 
 
@@ -104,7 +100,6 @@ conda remove -n name --all
 
 
 - [x] Python小技巧：https://www.bilibili.com/video/BV15r4y1L7v9
-- [x] Effective Python：编写高质量Python代码的90个有效方法：https://www.bilibili.com/video/BV1HB4y1C7zH
 
 
 
