@@ -66,6 +66,18 @@ conda remove -n name --all
 
 
 
+## Linux
+
+
+
+- [x] 从0学Linux驱动：https://www.bilibili.com/video/BV1Er4y1P7yu
+
+
+
+------
+
+
+
 ## C & C++
 
 
