@@ -10,7 +10,7 @@
 
 ![image-20220902214407934](Reinforcement%20Learning.assets/image-20220902214407934.png)
 
-![image-20220902222015388](Reinforcement%20Learning.assets/image-20220902222015388.png)
+- Reward由Sample产生，具有一定的随机性；
 
-
+![image-20220902222354872](Reinforcement%20Learning.assets/image-20220902222354872.png)
 
