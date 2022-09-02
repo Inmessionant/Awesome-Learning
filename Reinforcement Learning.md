@@ -26,3 +26,9 @@
     - 不采取这一行动：L = - Cross-entropy -> argmin L；
 
 ![image-20220902223143367](Reinforcement%20Learning.assets/image-20220902223143367.png)
+
+![image-20220902223417554](Reinforcement%20Learning.assets/image-20220902223417554.png)
+
+![image-20220902223622193](Reinforcement%20Learning.assets/image-20220902223622193.png)
+
+![image-20220902223832623](Reinforcement%20Learning.assets/image-20220902223832623.png)
