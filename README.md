@@ -17,6 +17,10 @@ Some resources include Python, C++, Anaconda, PyTorch, Machine Learning, Deep Le
 
 
 
+<img src="README.assets/v2-a696f3afcf5bbff42c999300478b1b4f_r.jpg" alt="preview" style="zoom: 67%;" />
+
+
+
 ------
 
 
