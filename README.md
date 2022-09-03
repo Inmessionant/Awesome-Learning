@@ -10,17 +10,6 @@ Some resources include Python, C++, Anaconda, PyTorch, Machine Learning, Deep Le
 
 
 
-- **数学基础：**微积分、线性代数、概率论、凸优化、信息论
-- **计算机基础：**数据结构（LeetCode）、操作系统（Linux）、计算机网络、数据库（SQL）、编程语言（Python、C++、C）
-- **AI算法：**机器学习、深度学习、SLAM、自动驾驶
-- **其他：**深度学习框架（PyTorch）、稀疏量化、神经网络编译、
-
-
-
-<img src="README.assets/v2-a696f3afcf5bbff42c999300478b1b4f_r.jpg" alt="preview" style="zoom: 67%;" />
-
-
-
 ------
 
 
