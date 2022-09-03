@@ -86,7 +86,7 @@ conda remove -n name --all
 
 
 
-- [x] C和指针
+- [ ] C和指针
 - [ ] C Primer Plus
 - [x] C++ Primer
 - [ ] Effective C++：改善程序与设计的55个具体做法
