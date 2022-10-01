@@ -14,6 +14,14 @@ Some resources include Python, C++, Anaconda, PyTorch, Machine Learning, Deep Le
 
 
 
+## Makefile
+
+
+
+- [ ] 跟我一起写Makefile：https://github.com/seisman/how-to-write-makefile
+
+
+
 ## Linux
 
 
