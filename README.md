@@ -5,7 +5,11 @@
 
 
 ```
-Some resources include Python, C++, Anaconda, PyTorch, Machine Learning, Deep Learning etc.
+Some resources include:
+	- Git, Makefile;
+	- Python, C++;
+	- Anaconda, PyTorch;
+	- Machine Learning, Deep Learning;
 ```
 
 
