@@ -125,11 +125,7 @@ Some resources include:
 
 
 - [x] 动手学习深度学习（PyTorch）：https://www.bilibili.com/video/BV1if4y147hS
-
-- [x] 2021 机器学习：https://www.bilibili.com/video/BV1JA411c7VT
-
-- [ ] 纽约大学深度学习课程（PyTorch）：https://www.bilibili.com/video/BV1Lb4y1X77t
-
+- [x] 2021 深度学习：https://www.bilibili.com/video/BV1JA411c7VT
 - [ ] 神经网络与深度学习：https://www.bilibili.com/video/BV13b4y1177W
 
 
