@@ -35,8 +35,8 @@ Some resources include:
 
 
 
-- [ ] C Primer Plus
-- [x] C++ Primer
+- [ ] C Primer Plus，6th Edition
+- [x] C++ Primer，5th Edition
 - [ ] Effective Modern C++：42 Specific Ways to Improve Your Use of C++11 and C++14
 
 
@@ -51,9 +51,11 @@ Some resources include:
 
 - [x] 华为Python语言编程规范 V3.0
 - [x] Effective Python：90 Specific Ways to Write Better Python
-- [ ] 利用Python进行数据分析
-- [ ] 流畅的Python
+- [ ] 利用Python进行数据分析，2nd Edition
+- [ ] 流畅的Python，2nd Edition
 - [x] [What the fuck Python! ](https://github.com/robertparley/wtfpython-cn)
+
+
 
 
 
@@ -69,7 +71,7 @@ Some resources include:
 
 
 
-- [ ] 陈海波 - 现代操作系统：原理与实现
+- [ ] 现代操作系统：原理与实现
 - [ ] 操作系统导论（Operating Systems：Three Easy Pieces）
 - [ ] Linux内核设计与实现
 - [ ] 深入理解Linux内核
@@ -79,8 +81,10 @@ Some resources include:
 
 
 
+
+
 - [x] 从0学Linux驱动：https://www.bilibili.com/video/BV1Er4y1P7yu
-- [ ] 蒋炎岩 - 2022 南京大学 “操作系统：设计与实现”：https://www.bilibili.com/video/BV1Cm4y1d7Ur
+- [ ] 2022 南京大学 “操作系统：设计与实现”：https://www.bilibili.com/video/BV1Cm4y1d7Ur
 
 
 
