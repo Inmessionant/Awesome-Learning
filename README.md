@@ -26,13 +26,6 @@ Some resources include:
 
 
 
-## Linux
-
-
-
-- [x] 从0学Linux驱动：https://www.bilibili.com/video/BV1Er4y1P7yu
-
-
 
 ------
 
@@ -79,16 +72,21 @@ Some resources include:
 
 
 
-## Operating System
+## Operating System, Linux
 
 
 
 - [ ] 陈海波 - 现代操作系统：原理与实现
 - [ ] 操作系统导论（Operating Systems：Three Easy Pieces）
+- [ ] Linux内核设计与实现
+- [ ] 深入理解Linux内核
+- [ ] Linux设备驱动程序
+- [ ] 深入理解LINUX网络技术内幕
 
 
 
 
+- [x] 从0学Linux驱动：https://www.bilibili.com/video/BV1Er4y1P7yu
 - [ ] 蒋炎岩 - 2022 南京大学 “操作系统：设计与实现”：https://www.bilibili.com/video/BV1Cm4y1d7Ur
 
 
