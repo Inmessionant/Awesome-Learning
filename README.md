@@ -96,16 +96,15 @@ Some resources include:
 
 
 
-- [ ] 李航 - 统计学习方法（第二版）
+- [ ] 统计学习方法，2nd Edition
 - [ ] 百面机器学习
-- [ ] Pattern Recognition and Machine Learning
-- [ ] Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
+- [ ] Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow，2nd Edition
 
 
 
-- [ ] 林轩田 - 机器学习基石：https://www.bilibili.com/video/BV1Cx411i7op
-- [ ] 林轩田 - 机器学习技法：https://www.bilibili.com/video/BV1ix411i7yp
-- [ ] 李宏毅 - 2019 机器学习：https://www.bilibili.com/video/BV1Ht411g7Ef （[李宏毅机器学习笔记](https://datawhalechina.github.io/leeml-notes/#/?id=李宏毅机器学习笔记leeml-notes)）
+- [ ] 机器学习基石：https://www.bilibili.com/video/BV1Cx411i7op
+- [ ] 机器学习技法：https://www.bilibili.com/video/BV1ix411i7yp
+- [ ] 2019 机器学习：https://www.bilibili.com/video/BV1Ht411g7Ef （[李宏毅机器学习笔记](https://datawhalechina.github.io/leeml-notes/#/?id=李宏毅机器学习笔记leeml-notes)）
 - [ ] 十分钟机器学习：https://www.bilibili.com/video/BV1No4y1o7ac
 
 
@@ -120,18 +119,18 @@ Some resources include:
 
 - [x] [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
 - [ ] 百面深度学习
-- [ ] Goodfellow Bengio - Deep Learning
-- [ ] 邱锡鹏 - 神经网络与深度学习
+- [ ] Deep Learning
+- [ ] 神经网络与深度学习
 
 
 
-- [x] 李沐 - 动手学习深度学习（PyTorch）v2：https://www.bilibili.com/video/BV1if4y147hS
+- [x] 动手学习深度学习（PyTorch）：https://www.bilibili.com/video/BV1if4y147hS
 
-- [x] 李宏毅 - 2021 机器学习：https://www.bilibili.com/video/BV1JA411c7VT
+- [x] 2021 机器学习：https://www.bilibili.com/video/BV1JA411c7VT
 
-- [ ] 纽约大学 - 深度学习课程（PyTorch）：https://www.bilibili.com/video/BV1Lb4y1X77t
+- [ ] 纽约大学深度学习课程（PyTorch）：https://www.bilibili.com/video/BV1Lb4y1X77t
 
-- [ ] 邱锡鹏 - 神经网络与深度学习：https://www.bilibili.com/video/BV13b4y1177W
+- [ ] 神经网络与深度学习：https://www.bilibili.com/video/BV13b4y1177W
 
 
 
@@ -143,4 +142,15 @@ Some resources include:
 
 
 
+- [ ] Reinforcement Learning：An Introduction，2nd Edition
+
+
+
+
+
 - [ ] https://github.com/wangshusen/DRL
+
+
+
+------
+
