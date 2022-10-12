@@ -22,7 +22,7 @@ Some resources include:
 
 
 
-- [ ] 跟我一起写Makefile：https://github.com/seisman/how-to-write-makefile
+- [ ] https://github.com/seisman/how-to-write-makefile
 
 
 
@@ -35,10 +35,9 @@ Some resources include:
 
 
 
-- [ ] C和指针
 - [ ] C Primer Plus
 - [x] C++ Primer
-- [ ] Effective C++：改善程序与设计的55个具体做法
+- [ ] Effective Modern C++：42 Specific Ways to Improve Your Use of C++11 and C++14
 
 
 
@@ -51,15 +50,9 @@ Some resources include:
 
 
 - [x] 华为Python语言编程规范 V3.0
-
-- [x] Effective Python：编写高质量Python代码的90个有效方法
-
+- [x] Effective Python：90 Specific Ways to Write Better Python
 - [ ] 利用Python进行数据分析
-
 - [ ] 流畅的Python
-
-- [x] [Numpy QuickStart](https://numpy.org/doc/stable/user/quickstart.html)
-
 - [x] [What the fuck Python! ](https://github.com/robertparley/wtfpython-cn)
 
 
