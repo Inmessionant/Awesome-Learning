@@ -29,7 +29,17 @@ Some resources include:
 
 ------
 
+## Clean Code
 
+
+
+- [ ] 重构: 改善既有代码的设计, 2nd Edition
+
+
+
+
+
+------
 
 ## C & C++
 
@@ -74,6 +84,7 @@ Some resources include:
 - [ ] Linux设备驱动程序, 3rd Edition
 - [ ] Linux设备驱动开发详解
 - [ ] 深入理解LINUX网络技术内幕
+- [ ] UNIX环境高级编程, 3rd Edition
 
 
 
