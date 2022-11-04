@@ -6,11 +6,11 @@
 
 ```
 Some resources include:
-	- Git, Makefile, Clean Code;
+	- Git, Makefile, CleanCode;
 	- Digital Image Processing;
-	- Python, C++;
+	- Python, C, C++;
 	- Anaconda, PyTorch;
-	- Machine Learning, Deep Learning;
+	- Machine Learning, Deep Learning, Reinforcement Learning;
 ```
 
 
@@ -56,7 +56,7 @@ Some resources include:
 
 
 - [ ] C Primer Plus, 6th Edition
-- [ ] C和指针
+- [ ] Pointers on C
 - [x] C++ Primer，5th Edition
 - [ ] The C++Programming Language, 4th Edition
 - [ ] Effective C++: 55 Specific Ways to Improve Your Programs and Designs
@@ -94,7 +94,6 @@ Some resources include:
 - [ ] Linux设备驱动程序, 3rd Edition
 - [ ] Linux设备驱动开发详解
 - [ ] 深入理解LINUX网络技术内幕
-- [ ] UNIX环境高级编程, 3rd Edition
 
 
 
@@ -109,57 +108,33 @@ Some resources include:
 
 
 
-## Machine Learning
+## Machine Learning & Deep Learning & Reinforcement Learning
 
 
 
 - [ ] 统计学习方法, 2nd Edition
 - [ ] 百面机器学习
-- [ ] Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition
+- [x] Neural Networks and Deep Learning
+- [ ] 神经网络与深度学习
+- [ ] Deep Learning
+- [ ] Speech and Language Processing, 3rd Edition
 - [ ] Pattern Recognition and Machine Learning
+- [ ] Reinforcement Learning：An Introduction，2nd Edition
+
+
+
+- [ ] PyTorch Recipes - A Problem-Solution Approach
+- [ ] Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition
 
 
 
 - [ ] 机器学习基石: https://www.bilibili.com/video/BV1Cx411i7op
 - [ ] 机器学习技法: https://www.bilibili.com/video/BV1ix411i7yp
-- [x] 李宏毅深度学习(2019): https://www.bilibili.com/video/BV1Ht411g7Ef ([李宏毅机器学习笔记](https://datawhalechina.github.io/leeml-notes/#/?id=李宏毅机器学习笔记leeml-notes))
-- [ ] 十分钟机器学习: https://www.bilibili.com/video/BV1No4y1o7ac
-
-
-
-------
-
-
-
-## Deep Learning
-
-
-
-- [x] [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
-- [ ] Deep Learning
-
-
-
-- [x] 动手学习深度学习(PyTorch)：https://www.bilibili.com/video/BV1if4y147hS
+- [x] 李宏毅深度学习(2019): https://www.bilibili.com/video/BV1Ht411g7Ef
 - [ ] 李宏毅深度学习(2021)：https://www.bilibili.com/video/BV1JA411c7VT
-
-
-
-------
-
-
-
-## Reinforcement Learning
-
-
-
-- [ ] Reinforcement Learning：An Introduction，2nd Edition
-
-
-
-
-
-- [ ] https://github.com/wangshusen/DRL
+- [ ] 十分钟机器学习: https://www.bilibili.com/video/BV1No4y1o7ac
+- [x] 动手学习深度学习(PyTorch)：https://www.bilibili.com/video/BV1if4y147hS 
+- [ ] 深度强化学习: https://github.com/wangshusen/DRL
 
 
 
