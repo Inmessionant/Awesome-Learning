@@ -116,6 +116,7 @@ Some resources include:
 - [ ] 统计学习方法, 2nd Edition
 - [ ] 百面机器学习
 - [ ] Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition
+- [ ] Pattern Recognition and Machine Learning
 
 
 
@@ -135,15 +136,12 @@ Some resources include:
 
 
 - [x] [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
-- [ ] 百面深度学习
 - [ ] Deep Learning
-- [ ] 神经网络与深度学习
 
 
 
 - [x] 动手学习深度学习(PyTorch)：https://www.bilibili.com/video/BV1if4y147hS
-- [x] 李宏毅深度学习(2021)：https://www.bilibili.com/video/BV1JA411c7VT
-- [ ] 神经网络与深度学习：https://www.bilibili.com/video/BV13b4y1177W
+- [ ] 李宏毅深度学习(2021)：https://www.bilibili.com/video/BV1JA411c7VT
 
 
 
