@@ -63,6 +63,8 @@ Some resources include:
 - [ ] Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14
 
 
+
+
 ------
 
 
@@ -125,6 +127,8 @@ Some resources include:
 
 - [ ] PyTorch Recipes - A Problem-Solution Approach
 - [ ] Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition
+
+
 
 
 
