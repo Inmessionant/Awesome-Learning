@@ -7,6 +7,7 @@
 ```
 Some resources include:
 	- Git, Makefile, Clean Code;
+	- Digital Image Processing;
 	- Python, C++;
 	- Anaconda, PyTorch;
 	- Machine Learning, Deep Learning;
@@ -39,11 +40,14 @@ Some resources include:
 
 
 ------
+
 ## Digital Image Processing
 
 
 
 - [ ] 数字图像处理, 4th Edition
+
+
 
 ------
 
@@ -53,10 +57,10 @@ Some resources include:
 
 - [ ] C Primer Plus, 6th Edition
 - [ ] C和指针
-- [ ] C语言深度解剖(第3版)
 - [x] C++ Primer，5th Edition
+- [ ] The C++Programming Language, 4th Edition
+- [ ] Effective C++: 55 Specific Ways to Improve Your Programs and Designs
 - [ ] Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14
-
 
 
 ------
@@ -70,7 +74,7 @@ Some resources include:
 - [x] 华为Python语言编程规范 V3.0
 - [x] Effective Python: 90 Specific Ways to Write Better Python
 - [ ] 利用Python进行数据分析, 2nd Edition
-- [ ] 流畅的Python, 2nd Edition
+- [ ] Fluent Python, 2nd Edition
 - [x] [What the fuck Python! ](https://github.com/robertparley/wtfpython-cn)
 
 
@@ -84,7 +88,7 @@ Some resources include:
 
 
 - [ ] 操作系统导论(Operating Systems: Three Easy Pieces)
-- [ ] Linux命令行与shell脚本编程大全(第4版)
+- [ ] Linux命令行与shell脚本编程大全, 4th Edition
 - [ ] Pro Git, 2nd Edition
 - [ ] Linux内核设计与实现
 - [ ] Linux设备驱动程序, 3rd Edition
@@ -117,7 +121,7 @@ Some resources include:
 
 - [ ] 机器学习基石: https://www.bilibili.com/video/BV1Cx411i7op
 - [ ] 机器学习技法: https://www.bilibili.com/video/BV1ix411i7yp
-- [ ] 李宏毅深度学习(2019): https://www.bilibili.com/video/BV1Ht411g7Ef ([李宏毅机器学习笔记](https://datawhalechina.github.io/leeml-notes/#/?id=李宏毅机器学习笔记leeml-notes))
+- [x] 李宏毅深度学习(2019): https://www.bilibili.com/video/BV1Ht411g7Ef ([李宏毅机器学习笔记](https://datawhalechina.github.io/leeml-notes/#/?id=李宏毅机器学习笔记leeml-notes))
 - [ ] 十分钟机器学习: https://www.bilibili.com/video/BV1No4y1o7ac
 
 
