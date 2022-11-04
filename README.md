@@ -45,7 +45,7 @@ Some resources include:
 
 
 
-- [ ] 数字图像处理, 4th Edition
+- [ ] Digital Image Processing, 4th Edition
 
 
 
