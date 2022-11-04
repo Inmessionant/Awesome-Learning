@@ -6,7 +6,7 @@
 
 ```
 Some resources include:
-	- Git, Makefile;
+	- Git, Makefile, Clean Code;
 	- Python, C++;
 	- Anaconda, PyTorch;
 	- Machine Learning, Deep Learning;
@@ -38,6 +38,12 @@ Some resources include:
 
 
 
+------
+## Digital Image Processing
+
+
+
+- [ ] 数字图像处理, 4th Edition
 
 ------
 
