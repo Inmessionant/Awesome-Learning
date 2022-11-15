@@ -1,38 +1,10 @@
+
+
+------
+
+
+
 ## ✅Python
-
-------
-
-
-
-
-
-### 迭代器 & 生成器
-
-
-
-
-
-------
-
-
-
-### 闭包
-
-
-
-
-
-------
-
-
-
-### 装饰器
-
-
-
-
-
-------
 
 
 
@@ -103,8 +75,6 @@ print(res.group(), res.group(0), res.group(1), res.group(2))
 
 
 
-
-
 ------
 
 
@@ -135,7 +105,7 @@ print(res.group(), res.group(0), res.group(1), res.group(2))
 
 
 
-```
+```python
 # conda 创建环境
 conda create -n name python=3.8
 
@@ -151,7 +121,7 @@ pip3 install --pre torch torchvision torchaudio --extra-index-url https://downlo
 
 
 
-```
+```python
 # 清理缓存
 conda clean -a
 
@@ -279,5 +249,4 @@ git checkout .  # 可以回退工作区所有未提交文件到最近节点内�
 
 
 ------
-
 
