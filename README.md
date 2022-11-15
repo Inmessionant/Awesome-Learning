@@ -69,7 +69,7 @@ Some resources include:
 
 - [x] 华为Python语言编程规范 V3.0
 - [ ] Effective Python: 90 Specific Ways to Write Better Python
-- [ ] 利用Python进行数据分析, 2nd Edition
+- [x] 利用Python进行数据分析, 2nd Edition
 - [ ] Fluent Python, 2nd Edition
 - [x] [What the fuck Python! ](https://github.com/robertparley/wtfpython-cn)
 
