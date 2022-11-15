@@ -30,16 +30,20 @@ Some resources include:
 
 ------
 
+
+
 ## Clean Code
 
 
 
-- [ ] 重构: 改善既有代码的设计, 2nd Edition
+- [ ] 重构: 改善既有代码的设计,  2nd Edition
 
 
 
 
 ------
+
+
 
 ## Digital Image Processing
 
@@ -51,13 +55,15 @@ Some resources include:
 
 ------
 
+
+
 ## C & C++
 
 
 
 - [ ] C Primer Plus, 6th Edition
 - [ ] Pointers on C
-- [x] C++ Primer，5th Edition
+- [x] C++ Primer, 5th Edition
 - [ ] The C++Programming Language, 4th Edition
 - [ ] Effective C++: 55 Specific Ways to Improve Your Programs and Designs
 - [ ] Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14
@@ -74,7 +80,7 @@ Some resources include:
 
 
 - [x] 华为Python语言编程规范 V3.0
-- [x] Effective Python: 90 Specific Ways to Write Better Python
+- [ ] Effective Python: 90 Specific Ways to Write Better Python
 - [ ] 利用Python进行数据分析, 2nd Edition
 - [ ] Fluent Python, 2nd Edition
 - [x] [What the fuck Python! ](https://github.com/robertparley/wtfpython-cn)
@@ -100,8 +106,6 @@ Some resources include:
 
 
 
-
-
 - [ ] 2022 南京大学 "操作系统: 设计与实现": https://www.bilibili.com/video/BV1Cm4y1d7Ur
 
 
@@ -121,23 +125,19 @@ Some resources include:
 - [ ] Deep Learning
 - [ ] Speech and Language Processing, 3rd Edition
 - [ ] Pattern Recognition and Machine Learning
-- [ ] Reinforcement Learning：An Introduction，2nd Edition
-
-
+- [ ] Reinforcement Learning: An Introduction, 2nd Edition
 
 - [ ] PyTorch Recipes - A Problem-Solution Approach
 - [ ] Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition
 
 
 
-
-
 - [ ] 机器学习基石: https://www.bilibili.com/video/BV1Cx411i7op
 - [ ] 机器学习技法: https://www.bilibili.com/video/BV1ix411i7yp
-- [x] 李宏毅深度学习(2019): https://www.bilibili.com/video/BV1Ht411g7Ef
-- [ ] 李宏毅深度学习(2021)：https://www.bilibili.com/video/BV1JA411c7VT
-- [ ] 十分钟机器学习: https://www.bilibili.com/video/BV1No4y1o7ac
-- [x] 动手学习深度学习(PyTorch)：https://www.bilibili.com/video/BV1if4y147hS 
+- [x] 李宏毅深度学习(2019):  https://www.bilibili.com/video/BV1Ht411g7Ef
+- [ ] 李宏毅深度学习(2021): https://www.bilibili.com/video/BV1JA411c7VT
+- [ ] 十分钟机器学习:  https://www.bilibili.com/video/BV1No4y1o7ac
+- [x] 动手学习深度学习(PyTorch): https://www.bilibili.com/video/BV1if4y147hS 
 - [ ] 深度强化学习: https://github.com/wangshusen/DRL
 
 
