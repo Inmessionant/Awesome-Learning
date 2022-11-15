@@ -15,18 +15,6 @@ Some resources include:
 
 
 
-------
-
-
-
-## Makefile
-
-
-
-- [ ] https://github.com/seisman/how-to-write-makefile
-
-
-
 
 ------
 
