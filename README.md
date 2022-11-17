@@ -90,6 +90,7 @@ Some resources include:
 - [ ] Linux设备驱动程序, 3rd Edition
 - [ ] Linux设备驱动开发详解
 - [ ] 深入理解LINUX网络技术内幕
+- [ ] UNIX环境高级编程, 3rd Edition
 
 
 
