@@ -4,7 +4,7 @@
 
 
 
- - **Git, Makefile, CleanCode;**
+ - **Git, Makefile;**
  - **Digital Image Processing;**
  - **Python, C, C++;**
  - **Anaconda, PyTorch;**
