@@ -17,24 +17,11 @@
 
 
 
-## Clean Code
-
-
-
-- [ ] 重构: 改善既有代码的设计,  2nd Edition
-
-
-
-
-------
-
-
-
 ## Digital Image Processing
 
 
 
-- [ ] Digital Image Processing, 4th Edition
+- [ ] 数字图像处理, 4th Edition
 
 
 
@@ -42,29 +29,29 @@
 
 
 
-## C & C++
+## C & C++ & Python
 
 
 
-- [ ] C Primer Plus, 6th Edition
 - [ ] Pointers on C
+- [ ] C Primer Plus, 6th Edition
+
+------
+
 - [x] C++ Primer, 5th Edition
+
 - [ ] The C++Programming Language, 4th Edition
 - [ ] Effective C++: 55 Specific Ways to Improve Your Programs and Designs
 - [ ] Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14
 
+------
 
-
+- [ ] 重构: 改善既有代码的设计,  2nd Edition
 
 ------
 
-
-
-## Python
-
-
-
 - [x] 华为Python语言编程规范 V3.0
+
 - [ ] Effective Python: 90 Specific Ways to Write Better Python
 - [x] 利用Python进行数据分析, 2nd Edition
 - [ ] Fluent Python, 2nd Edition
