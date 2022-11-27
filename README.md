@@ -4,14 +4,11 @@
 
 
 
-```
-Some resources include:
-	- Git, Makefile, CleanCode;
-	- Digital Image Processing;
-	- Python, C, C++;
-	- Anaconda, PyTorch;
-	- Machine Learning, Deep Learning, Reinforcement Learning;
-```
+ - **Git, Makefile, CleanCode;**
+ - **Digital Image Processing;**
+ - **Python, C, C++;**
+ - **Anaconda, PyTorch;**
+ - **Machine Learning, Deep Learning, Reinforcement Learning;**
 
 
 
