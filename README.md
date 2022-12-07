@@ -42,6 +42,7 @@
 - [ ] The C++Programming Language, 4th Edition
 - [ ] Effective C++: 55 Specific Ways to Improve Your Programs and Designs
 - [ ] Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14
+- [ ] 华为C++语言编程规范V5.0
 
 ------
 
