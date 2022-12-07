@@ -20,7 +20,7 @@
 
 
 
-- [ ] 数字图像处理
+- [ ] 数字图像处理, 4th Edition
 
 
 
@@ -32,24 +32,36 @@
 
 
 
-- [ ] Pointers on C
-- [ ] C Primer Plus
+- [ ] C和指针
+- [ ] C Primer Plus, 6th Edition
+
+
 
 ------
 
-- [x] C++ Primer
 
-- [ ] C++程序设计语言
-- [ ] Effective C++
-- [ ] Effective Modern C++
-- [ ] C++语言的设计和演化
+
+- [x] C++ Primer, 5th Edition
+
+- [ ] Effective C++: 改善程序与设计的55个具体做法
+- [ ] Effective Modern C++: 改善C++11和C++14的42个具体做法
 - [ ] 华为C++语言编程规范V5.0
+- [ ] C++语言的设计和演化
+- [ ] C++程序设计语言(第1-4部分 套装共2册)
+
+
 
 ------
 
-- [ ] 重构: 改善既有代码的设计
+
+
+- [ ] 重构: 改善既有代码的设计, 2nd Edition
+
+
 
 ------
+
+
 
 - [x] 华为Python语言编程规范 V3.0
 
@@ -74,13 +86,13 @@
 
 - [ ] 2022 南京大学 "操作系统: 设计与实现": https://www.bilibili.com/video/BV1Cm4y1d7Ur
 
+
+
 ------
 
 
 
 - [ ] UNIX环境高级编程
-
-------
 
 - [ ] Linux内核设计与实现
 
