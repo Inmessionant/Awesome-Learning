@@ -116,7 +116,7 @@
 
 
 
-- [ ] 机器学习基石: https://www.bilibili.com/video/BV1Cx411i7op
+- [x] 机器学习基石: https://www.bilibili.com/video/BV1Cx411i7op
 - [ ] 机器学习技法: https://www.bilibili.com/video/BV1ix411i7yp
 - [ ] 十分钟机器学习:  https://www.bilibili.com/video/BV1No4y1o7ac
 
