@@ -9,3 +9,10 @@
 **什么时候可以用机器学习：**
 
 ![image-20221227215626463](Machine%20Learning.assets/image-20221227215626463.png)
+
+
+
+**Data -> ML -> Skill**
+
+
+
