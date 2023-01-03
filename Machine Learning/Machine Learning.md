@@ -2,6 +2,12 @@
 
 
 
+```
+ML is one possible route to relize AI !
+```
+
+
+
 **Data -> ML -> Skill**
 
 ![image-20221227214333552](Machine%20Learning.assets/image-20221227214333552.png)
