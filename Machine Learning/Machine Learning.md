@@ -2,6 +2,8 @@
 
 
 
+**Data -> ML -> Skill**
+
 ![image-20221227214333552](Machine%20Learning.assets/image-20221227214333552.png)
 
 
@@ -12,7 +14,4 @@
 
 
 
-**Data -> ML -> Skill**
-
-
-
+**机器学习符号：**
