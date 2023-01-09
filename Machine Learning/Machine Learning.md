@@ -36,3 +36,27 @@ ML is one possible route to relize AI !
 
 ![image-20230109211255173](Machine%20Learning.assets/image-20230109211255173.png)
 
+**模型修正：**
+
+![image-20230109212145933](Machine%20Learning.assets/image-20230109212145933.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
