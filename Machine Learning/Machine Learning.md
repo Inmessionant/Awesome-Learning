@@ -8,6 +8,8 @@ ML is one possible route to relize AI !
 
 
 
+#### 前置内容
+
 **Data -> ML -> Skill**
 
 ![image-20221227214333552](Machine%20Learning.assets/image-20221227214333552.png)
@@ -35,6 +37,8 @@ ML is one possible route to relize AI !
 ![image-20230109210838069](Machine%20Learning.assets/image-20230109210838069.png)
 
 ![image-20230109211255173](Machine%20Learning.assets/image-20230109211255173.png)
+
+#### PLA及其修正
 
 **模型修正：在学习机器学习时，涉及线性分类问题时，对于如何找到最佳的线性分类器，我们会使用到Perceptron Learning Algorithm(PLA)，即是感知机学习算法，来在平面（这里以二维平面为例）的众多直线中找到一条理想的直线，该直线可以达到很好的分类效果**
 
