@@ -40,7 +40,7 @@ ML is one possible route to relize AI !
 
 ![image-20230109212145933](Machine%20Learning.assets/image-20230109212145933.png)
 
-
+![image-20230110220418105](Machine%20Learning.assets/image-20230110220418105.png)
 
 
 
